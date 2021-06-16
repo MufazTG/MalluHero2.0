@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/MufazTG/MalluHero2.0",
+  "repository": "hhttps://github.com/TGExplore/Marie_Chechi2.0",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -54,7 +54,7 @@
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
       "value": "https://t.me/Mufaz123"
-    
+    },
     "PORT": {
       "description": "Port to use for your webhooks",
       "value": "8443"
